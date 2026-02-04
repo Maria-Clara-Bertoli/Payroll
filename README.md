@@ -10,15 +10,11 @@ This repository contains the **implementation of a payroll system**, structured 
 
 🐬 The relational database used is **MySQL**.
 
----
-
 ## ⚙️ Features
 
 - 📄 Management of payroll data  
 - 📝 Employee and contract registration, as well as calculation of monthly salary, vacation, 13th salary, termination, and related operations  
 - 🔗 Integration between DAO, DTO, and BO layers  
-
----
 
 ## 🛠️ Technologies Used
 
